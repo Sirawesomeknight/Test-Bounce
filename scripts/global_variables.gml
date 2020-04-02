@@ -1,0 +1,11 @@
+global.shouldView = true;
+global.adjustView = false;
+global.isZoomedOut = false;
+global.whichWall = 0;
+global.phspeed = 0;
+global.pvspeed = 0;
+global.laserKill = true;
+global.isDark = false;
+global.nid = 0;
+global.showdialogue = false;
+global.dialogue = "cool";
